@@ -1,2 +1,1 @@
-# Estudos Javascript
- Neste Repositório haverá apenas exercícios feitos com JavaScript
+#Site sobre Machado de Assis criado em aula
